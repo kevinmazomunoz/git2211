@@ -1,0 +1,12 @@
+.main-header { 
+    display: flex; 
+    justify-content: space-between; 
+    padding: 20px; 
+    background: #111; 
+    color: white; 
+} 
+.main-header a { 
+    margin-left: 15px; 
+    text-decoration: none; 
+    color: #eee; 
+} 
